@@ -13,6 +13,6 @@ I'm a developer, support specialist, and technical content creator from Argentin
 
 I used to work as a translator, and I'm fully bilingual (English and Spanish.)
 
-If you arrived here, you were probably provided with link to a custom resume.
+If you arrived here, you were probably provided with link to a custom resume. _(You should probably use the link provided ;-).)_
 
 
