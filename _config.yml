@@ -27,6 +27,10 @@ url: "https://matiasbaldanza.com" # the base hostname & protocol for your site, 
 twitter_username: matiasbaldanza
 github_username:  matiasbaldanza
 
+sass:
+  sass_dir: _sass     # Where your partials (_something.scss) live
+  style: compressed   # or expanded, compact, nested
+
 # Build settings
 # theme: minima
 # plugins:
