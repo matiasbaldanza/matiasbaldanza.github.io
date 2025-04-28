@@ -2,6 +2,10 @@ name: Build and Deploy Jekyll site to GitHub Pages
 
 on:
   workflow_dispatch:
+  pull_request:
+    types: [closed]
+    branches:
+      - main
 
 jobs:
   jekyll:
